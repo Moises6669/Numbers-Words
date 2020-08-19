@@ -1,0 +1,7 @@
+C:\Users\moise\source\repos\pueba\pueba\bin\Debug\pueba.exe.config
+C:\Users\moise\source\repos\pueba\pueba\bin\Debug\pueba.exe
+C:\Users\moise\source\repos\pueba\pueba\bin\Debug\pueba.pdb
+C:\Users\moise\source\repos\pueba\pueba\obj\Debug\pueba.csprojAssemblyReference.cache
+C:\Users\moise\source\repos\pueba\pueba\obj\Debug\pueba.csproj.CoreCompileInputs.cache
+C:\Users\moise\source\repos\pueba\pueba\obj\Debug\pueba.exe
+C:\Users\moise\source\repos\pueba\pueba\obj\Debug\pueba.pdb
